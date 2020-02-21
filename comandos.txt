@@ -1,0 +1,10 @@
+// Iniciar uma aplica��o no Node, package.json
+yarn init -y
+
+
+//Iniciar git
+git init
+
+git remote add origin https://github.com/tecsaulotavares/backend-omnistack.git 
+
+
